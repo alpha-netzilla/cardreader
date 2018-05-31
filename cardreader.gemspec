@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Detect a business card information}
   spec.description   = %q{Detect a business card information using Google Cloud Vison API}
-  spec.homepage      = "https://github.com/netzilla/cardreader"
+  spec.homepage      = "https://github.com/alpha-netzilla/cardreader"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
