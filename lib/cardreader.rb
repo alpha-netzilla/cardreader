@@ -1,0 +1,7 @@
+require "cardreader/version"
+require "cardreader/manage"
+require "cardreader/lang"
+require "cardreader/vision"
+require "base64"
+require "json"
+require "net/http"
